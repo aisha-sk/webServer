@@ -24,3 +24,12 @@
 20230808	18:53:07	6b5ae967-dc00-408b-8f04-0f21bc4a7009	/css/style.css	GET
 20230808	18:53:22	a8acbdc9-93e8-4635-bf15-b08f24354a7b	/data/data.txt	GET
 20230808	18:53:34	6e3bf062-e140-4ad5-b826-c498eebe9061	/data/data.json	GET
+20230810	14:15:13	40074e8b-3e02-4f5c-842e-6b4c9bb480ce	GET	undefined	/
+20230810	14:15:13	be59dd34-77e3-4dc4-87b2-9e6c9c21ead3	GET	undefined	/css/style.css
+20230810	14:15:17	ec36514f-3e7d-4705-9ad0-88dcb719296e	GET	undefined	/
+20230810	14:15:17	21524ee6-f0ee-4561-a616-5a86088cce78	GET	undefined	/css/style.css
+20230810	14:15:35	df3fc590-035d-458a-abcc-261b18d1af42	GET	undefined	/new-page.html
+20230810	14:15:35	6f48d3e6-8bc1-4dfc-a007-bed48daabb59	GET	undefined	/img/etch.png
+20230810	14:15:35	26240555-7844-4ad1-8261-9e68a0a93172	GET	undefined	/css/style.css
+20230810	14:17:38	6d221430-513a-494d-82fa-60c6f06b64dc	GET	undefined	/
+20230810	14:17:38	d0803e86-0738-4f30-8f36-5c7c8ae2f3f6	GET	undefined	/css/style.css

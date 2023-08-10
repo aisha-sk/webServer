@@ -2,6 +2,23 @@ const path = require('path')
 const express = require('express')
 const app = express()
 const PORT = process.env.PORT || 3500
+const { logger } = require('./middleware/logEvents')
+
+// custom middle ware logger
+
+app.use(logger)
+
+// built in middleware (form data)
+
+app.use(express.urlencoded({extended: false}))
+
+// (json - non form data)
+
+app.use(express.json())
+
+// serving static files
+
+app.use(express.static(path.join(__dirname, '/public')))
 
 app.get('/', (req, res) => {
     //res.sendFile('./views/index.html', {root: __dirname})
