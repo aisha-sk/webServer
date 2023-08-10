@@ -3,6 +3,8 @@ const path = require('path');
 const fs = require('fs');
 const fsPromises = require('fs').promises;
 
+// use [npm run dev] to start nodemon
+
 const logEvents = require('./logEvents');
 const EventEmitter = require('events');
 class Emitter extends EventEmitter { };
